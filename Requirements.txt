@@ -6,3 +6,9 @@ opencv-python
 scikit-learn
 matplotlib
 joblib
+streamlit
+numpy
+pillow
+scikit-learn
+
+
